@@ -1,0 +1,1 @@
+Late Binding and Implicit Conversion Errors: VBScript's late binding can lead to runtime errors if an object doesn't have the expected method or property.  Implicit type conversions can also cause unexpected results, especially when dealing with data from external sources.
